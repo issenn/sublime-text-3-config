@@ -6,7 +6,10 @@
 	"installed_packages":
 	[
 		"ChineseLocalizations",
+		"EditorConfig",
 		"Material Theme",
-		"Package Control"
+		"Package Control",
+		"SSH Config",
+		"Sublimerge 3"
 	]
 }
